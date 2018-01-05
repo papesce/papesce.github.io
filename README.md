@@ -6,4 +6,4 @@ For example:
 - [papesce.github.io/react](https://papesce.github.io/react)
 - [papesce.github.io/storybook](https://papesce.github.io/storybook)
 - [papesce.github.io/clov-report](https://papesce.github.io/lcov-report)
-- [Personla Site (gatbsy oliver)](https://papesce.github.io/oliver)
+- [Personal Site (gatsby oliver)](https://papesce.github.io/oliver)
