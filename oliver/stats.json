@@ -16,10 +16,6 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---work-life-with-bird": [
-      "path---work-life-with-bird-a0e39f21c11f6a62c5ab.js",
-      "path---work-life-with-bird-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-4a580cb3a5872eca11b6.js",
       "component---src-layouts-index-jsx-4a580cb3a5872eca11b6.js.map"
@@ -27,14 +23,6 @@
     "component---src-pages-contact-index-jsx": [
       "component---src-pages-contact-index-jsx-5b79640f3f9aa22f13b9.js",
       "component---src-pages-contact-index-jsx-5b79640f3f9aa22f13b9.js.map"
-    ],
-    "component---src-pages-work-ahm-index-jsx": [
-      "component---src-pages-work-ahm-index-jsx-44daeb04d609f1eef9ae.js",
-      "component---src-pages-work-ahm-index-jsx-44daeb04d609f1eef9ae.js.map"
-    ],
-    "path---work-mr-red": [
-      "path---work-mr-red-a0e39f21c11f6a62c5ab.js",
-      "path---work-mr-red-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-index-jsx": [
       "component---src-pages-about-index-jsx-7fad99c2ee41a7681b5c.js",
@@ -49,9 +37,9 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-efdf59269892ed7f611a.js",
+      "commons-fe83c24035ff3f270a4b.js",
       "build-js-styles.css",
-      "commons-efdf59269892ed7f611a.js.map",
+      "commons-fe83c24035ff3f270a4b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -66,10 +54,6 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---work-ahm": [
-      "path---work-ahm-a0e39f21c11f6a62c5ab.js",
-      "path---work-ahm-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-75e9924400b55114c58d.js",
       "component---src-pages-index-jsx-75e9924400b55114c58d.js.map"
@@ -79,34 +63,26 @@
       "path---work-click-childcare-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-c931c591a2d8411b37da.js",
+      "app-8838aa71c97291c9c2c6.js",
       "build-js-styles.css",
-      "app-c931c591a2d8411b37da.js.map",
+      "app-8838aa71c97291c9c2c6.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-work-kindynow-index-jsx": [
-      "component---src-pages-work-kindynow-index-jsx-a1bbbb8688c7e3a90137.js",
-      "component---src-pages-work-kindynow-index-jsx-a1bbbb8688c7e3a90137.js.map"
+      "component---src-pages-work-kindynow-index-jsx-23f0da3f20cea85c6c3d.js",
+      "component---src-pages-work-kindynow-index-jsx-23f0da3f20cea85c6c3d.js.map"
     ],
     "component---src-pages-work-chadstone-index-jsx": [
-      "component---src-pages-work-chadstone-index-jsx-7976a0942e834c6bd639.js",
-      "component---src-pages-work-chadstone-index-jsx-7976a0942e834c6bd639.js.map"
-    ],
-    "component---src-pages-work-mr-red-index-jsx": [
-      "component---src-pages-work-mr-red-index-jsx-7cf823c04c859fcd58e7.js",
-      "component---src-pages-work-mr-red-index-jsx-7cf823c04c859fcd58e7.js.map"
-    ],
-    "component---src-pages-work-life-with-bird-index-jsx": [
-      "component---src-pages-work-life-with-bird-index-jsx-e0fde2e1f8517790f76e.js",
-      "component---src-pages-work-life-with-bird-index-jsx-e0fde2e1f8517790f76e.js.map"
+      "component---src-pages-work-chadstone-index-jsx-5d456c6770072b874cdc.js",
+      "component---src-pages-work-chadstone-index-jsx-5d456c6770072b874cdc.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-work-click-childcare-index-jsx": [
-      "component---src-pages-work-click-childcare-index-jsx-f3b970278572555b546f.js",
-      "component---src-pages-work-click-childcare-index-jsx-f3b970278572555b546f.js.map"
+      "component---src-pages-work-click-childcare-index-jsx-6bb1b28d822f47554834.js",
+      "component---src-pages-work-click-childcare-index-jsx-6bb1b28d822f47554834.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
